@@ -4,6 +4,14 @@ git+git://github.com/google/chatbase-python.git
 hachoir
 numpy
 Pillow
-https://github.com/Mahesh0253/pyrogram/archive/asyncio.zip
 requests
 tgcrypto
+pyrogram==2.0.80
+pyromod
+motor
+dnspython
+hachoir
+humanize
+ffmpeg-python
+python-telegram-bot==13.15
+pymongo
