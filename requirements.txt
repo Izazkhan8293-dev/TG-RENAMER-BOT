@@ -5,7 +5,7 @@ numpy
 Pillow
 requests
 tgcrypto
-pyrogram==2.0.80
+pyrogram==2.0.106
 pyromod
 motor
 dnspython
